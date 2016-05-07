@@ -25,6 +25,6 @@ We invite 2-page abstracts describing relevant work that has been recently publi
 
 ## Submission Instructions
 
-Abstracts must not exceed 2 pages (including references). **Submission deadline: June 10**
+Abstracts must not exceed 2 pages (including references). **Submission deadline will be announced soon**
 
 Submission is via the workshop CMT (https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FAAVL2016).
