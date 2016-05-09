@@ -1,7 +1,7 @@
 # 1st Workshop on Action and Anticipation for Visual Learning
 *(in conjunction with ECCV 2016, Amsterdam, Oct 8-16)*
 
-This repository contains the LaTeX template for abstract submission to the workshop. A summary of the themes and call for papers is attached below. 
+This repository contains the LaTeX template for abstract submission to the workshop. A summary of the themes and call for papers is attached below.
 
 For more details, see http://vision.cs.utexas.edu/aavl_workshop_eccv16/
 
@@ -25,6 +25,6 @@ We invite 2-page abstracts describing relevant work that has been recently publi
 
 ## Submission Instructions
 
-Abstracts must not exceed 2 pages (including references). **Submission deadline will be announced soon**
+Abstracts must not exceed 2 pages (including references). **Submission deadline: July 15**
 
 Submission is via the workshop CMT (https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FAAVL2016).
